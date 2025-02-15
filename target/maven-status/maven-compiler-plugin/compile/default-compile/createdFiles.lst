@@ -1,0 +1,11 @@
+com\sait\todo\service\package-info.class
+com\sait\todo\model\package-info.class
+com\sait\todo\controller\TaskController.class
+com\sait\todo\controller\package-info.class
+com\sait\todo\model\Task.class
+com\sait\todo\controller\HelloController.class
+com\sait\todo\repository\package-info.class
+com\sait\todo\repository\TaskRepository.class
+com\sait\todo\ToDoListApplication.class
+com\sait\todo\service\TaskService.class
+com\sait\todo\package-info.class
